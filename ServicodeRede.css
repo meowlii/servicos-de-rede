@@ -1,0 +1,120 @@
+.corpo{
+
+    font-family: sans-serif;
+	background-color: #505ae9;
+    color: white
+}
+
+.osi {
+
+    font-family: sans-serif;
+    background-color: c3092f;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+    align-items: center;
+}
+
+.osi img {
+    border-radius: 5%;
+    align-items: center;
+  }
+
+.tcp {
+
+    font-family: sans-serif;
+	background-color: f28061;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+.tcp img {
+    border-radius: 5%;
+  }
+
+  .udp {
+
+    font-family: sans-serif;
+	background-color: f28061;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+.udp img {
+    border-radius: 5%;
+  }
+
+  .dns {
+
+    font-family: sans-serif;
+	background-color: f28061;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+.dns img {
+    border-radius: 5%;
+  }
+
+  .dhcp {
+
+    font-family: sans-serif;
+	background-color: f28061;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+.dhcp img {
+    border-radius: 5%;
+  }
+
+  .ftp {
+
+    font-family: sans-serif;
+	background-color: f28061;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+.ftp img {
+    border-radius: 5%;
+  }
+
+  .http {
+
+    font-family: sans-serif;
+	background-color: f28061;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+.http img {
+    border-radius: 5%;
+  }
+
+  .webserver {
+
+    font-family: sans-serif;
+	background-color: f28061;
+	color: white;
+	border: 2px solid white;
+	margin: 20px;
+	padding: 20px;
+}
+
+.webserver img {
+    border-radius: 5%;
+  }
